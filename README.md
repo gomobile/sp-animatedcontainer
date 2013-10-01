@@ -1,4 +1,4 @@
-This project is the starting point for the App Designer Animated Container tutorial video. The App Designer is included in the Intel(R) XDK.
+This project is the starting point for the App Designer Animated Container tutorial and video. The App Designer is included in the Intel(R) XDK.
 
 Intel(R) XDK
 -------------------------------------------
